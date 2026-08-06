@@ -1,12 +1,11 @@
 # ITAI-2372: Artificial Intelligence Applications Portfolio
 Portfolio for AI Applications
 # AI Applications & Industry Case Studies Portfolio
-**Name:** Mary Balemba
+# **Name:** Mary Balemba
 **Contact Info:** 832-883-1992
 **Institution:** Houston City College 
 **Instructor:** Professor Sridhar Ganti
 **Certifications:** CompTIA Security+, CompTIA Cloud+, SQL 
-**Skills:** Python, Database Theory and Design, Machine Learning, Artificial Intelligence, Jupyter Nootebook, GoogleColab, GitHub 
 This repository contains my portfolio of case studies and practical applications of Artificial Intelligence across various key industries.
 # AI Applications Portfolio
 
@@ -22,6 +21,7 @@ This repository showcases projects completed during ITAI 2372.
 - Data Analysis
 - GitHub
 - Jupyter Notebook
+- GoogleColab
 
 ## Repository Contents
 
