@@ -5,7 +5,8 @@ Portfolio for AI Applications
 **Contact Info:** 832-883-1992
 **Institution:** Houston City College 
 **Instructor:** Professor Sridhar Ganti
-**Certifications:** CompTIA Security+, CompTIA Cloud+, SQL 
+# **Certifications:** CompTIA Security+, CompTIA Cloud+, SQL 
+
 This repository contains my portfolio of case studies and practical applications of Artificial Intelligence across various key industries.
 # AI Applications Portfolio
 
