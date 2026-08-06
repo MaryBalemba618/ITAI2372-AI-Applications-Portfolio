@@ -8,7 +8,32 @@ Portfolio for AI Applications
 **Certifications:** CompTIA Security+, CompTIA Cloud+, SQL 
 **Skills:** Python, Database Theory and Design, Machine Learning, Artificial Intelligence, Jupyter Nootebook, GoogleColab, GitHub 
 This repository contains my portfolio of case studies and practical applications of Artificial Intelligence across various key industries.
+# AI Applications Portfolio
 
+Welcome to my AI Applications portfolio.
+
+This repository showcases projects completed during ITAI 2372.
+
+## Skills
+
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Data Analysis
+- GitHub
+- Jupyter Notebook
+
+## Repository Contents
+
+Assignments
+
+Projects
+
+Course Notes
+
+Resources
+
+Presentation
 ---
 
 ## 📚 Course Highlights & Industry Applications
