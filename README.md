@@ -32,6 +32,9 @@ Projects
 
 Course Notes
 
+Images 
+![Surtrac Traffic System Diagram](surtrac_traffic_network.png)
+
 Presentation
 ---
 
