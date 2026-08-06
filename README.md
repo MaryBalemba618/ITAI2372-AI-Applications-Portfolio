@@ -1,5 +1,4 @@
 # ITAI-2372: Artificial Intelligence Applications Portfolio
-Portfolio for AI Applications
 # AI Applications & Industry Case Studies Portfolio
 # **Name:** Mary Balemba
 **Contact Info:** 832-883-1992
@@ -7,12 +6,9 @@ Portfolio for AI Applications
 **Instructor:** Professor Sridhar Ganti
 **Certifications:** CompTIA Security+, CompTIA Cloud+, SQL 
 
-This repository contains my portfolio of case studies and practical applications of Artificial Intelligence across various key industries.
-# AI Applications Portfolio
-
 Welcome to my AI Applications portfolio.
 
-This repository showcases projects completed during ITAI 2372.
+This repository contains my portfolio of case studies and practical applications of Artificial Intelligence across various key industries.
 
 ## Skills
 
